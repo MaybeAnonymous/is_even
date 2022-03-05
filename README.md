@@ -5,7 +5,7 @@ Fancy Rust program to check if a number is even, following the trend in r/progra
 
 **Running**
 
-* Make `is_even` executable: `chmod +x is_even`
+* `chmod +x is_even`
 
 **Compiling**
 
